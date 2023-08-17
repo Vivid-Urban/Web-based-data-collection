@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20230612</CreaDate><CreaTime>14054200</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Conversion Tools.tbx\PointToRaster" Date="20230612" Time="140542">PointToRaster E:\GISci\out\grid\grid_label.shp FID E:\GISci\out\grid\grid_geo.tif "Most frequent" NONE 358.02 BUILD</Process></lineage></DataProperties></Esri></metadata>
